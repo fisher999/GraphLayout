@@ -14,7 +14,6 @@
 #ifndef ATT_GRAPH_H
 #define ATT_GRAPH_H
 
-#include <inttypes.h>
 #include "cdt.h"
 
 #ifdef __cplusplus
